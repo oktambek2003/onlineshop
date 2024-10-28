@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                    child: Container(),
                   ),
                   SizedBox(height: 10), // Tugma tagidagi masofa
-                  Text('OKTAMBKE'),
+                  Text('OKTAMBKEcsxcdscdsacadscdsc'),
                 ],
               ),
             ],
